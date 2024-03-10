@@ -1,0 +1,11 @@
+ID,Genero,Edad,Altura(cm),Peso(kg),Puntuacion
+1,Masculino,25,176,70,85
+2,Femenino,30,NaN,55,90
+3,Masculino,35,180,NaN,75
+4,Femenino,NaN,165,60,92
+5,Masculino,40,172,75,88
+6,Femenino,32,NaN,58,95
+7,Masculino,45,178,85,NaN
+8,Femenino,27,160,50,94
+9,Masculino,38,NaN,78,82
+10,Femenino,29,166,57,91
