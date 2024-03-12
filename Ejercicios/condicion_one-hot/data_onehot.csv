@@ -1,7 +1,6 @@
-Edad,Altura,Peso,Genero
-25,170,65,Masculino
-30,165,60,Femenino
-35,180,70,Masculino
-28,160,55,Femenino
-40,175,75,Masculino
-32,168,58,Femenino
+feature1,feature2,feature3,category1,category2,target
+1,2,3,A,Yes,0
+4,5,6,B,No,1
+7,8,9,C,Yes,0
+10,11,12,A,Yes,1
+13,14,15,B,No,0
