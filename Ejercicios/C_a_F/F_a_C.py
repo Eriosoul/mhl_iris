@@ -23,8 +23,14 @@ import matplotlib.pyplot as plt
 plt.xlabel('# Epoca')
 plt.ylabel('Magnitud de perdida')
 plt.plot(historial.history["loss"])
-
+plt.title('Pérdida durante el entrenamiento')
+plt.show()
 
 print("predicion")
 resultado = modelo.predict([59.0])
 print(f"El resultado es {str(resultado)} a celsius")
+
+
+print('Variables internas del modelo:')
+for capa in modelo.layers:
+    print(capa.get_weights())
